@@ -5,6 +5,7 @@ import Skills from './Skills';
 import Experiences from './Experiences';
 import Education from './Education';
 import Portifolios from './Portifolios';
+import About from './About';
 
 export default class Home extends Component {
   render() {
@@ -17,6 +18,7 @@ export default class Home extends Component {
             <Profile />
           </div>
           <div className='col s12 m8 l9'>
+            <About />
             <Skills />
             <Experiences />
             <Education />
