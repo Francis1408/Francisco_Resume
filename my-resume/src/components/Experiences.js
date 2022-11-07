@@ -21,10 +21,7 @@ export default class Experiences extends Component {
                     <strong>WEB DEVELOPER</strong>
                   </h6>
                   <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Amet, voluptas omnis totam, dolorum nihil, repellat expedita
-                    labore ratione quibusdam itaque unde veniam neque iure
-                    eveniet possimus fugit voluptatibus nam quisquam.
+                    Lorem 
                   </p>
                 </blockquote>
               </div>
