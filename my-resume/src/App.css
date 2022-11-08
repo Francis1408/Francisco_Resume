@@ -1,10 +1,30 @@
 .fas{
   font-size: 15px;
 }
-
-
 .flex-container {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
+}
+
+.c-container {
+  background-color: lightgray;
+}
+
+.c-textFollow{
+  text-align: center;
+  display: block;
+  padding: 10px;
+  height: 20%;
+  background-color: #01579b;
+  color: white;
+}
+.c-icons{
+  display:block;
+  height:80%;
+}
+
+#text {
+  font-size: 30px;
+  text-align: center;
 }
